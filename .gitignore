@@ -1,0 +1,4 @@
+tmp/
+docs/superpowers/plans/
+__pycache__/
+*.pyc

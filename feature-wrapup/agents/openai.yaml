@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feature Wrap-up"
+  short_description: "User PDF or technical SDN after feature work"
+  default_prompt: "Use $feature-wrapup to document this finished feature; ask me whether I want the user PDF or the technical SDN."
