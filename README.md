@@ -6,7 +6,7 @@ SDN means **Summary**, **Decisions needing answers**, and **Next available steps
 
 ## Install
 
-Clone this repository and copy the [`feature-wrapup`](feature-wrapup/) folder into your Codex skills directory (`~/.codex/skills/feature-wrapup`). Keep its `references/` and `agents/` folders with it.
+Download the [skill ZIP](https://github.com/ojou10/feature-wrapup-skill/releases/latest/download/feature-wrapup.zip), or clone this repository. Copy the [`feature-wrapup`](feature-wrapup/) folder into your Codex skills directory (`~/.codex/skills/feature-wrapup`). Keep its `references/` and `agents/` folders with it.
 
 ## Use
 
