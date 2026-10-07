@@ -6,7 +6,15 @@ SDN means **Summary**, **Decisions needing answers**, and **Next available steps
 
 ## Install
 
-Download the [skill ZIP](https://github.com/ojou10/feature-wrapup-skill/releases/latest/download/feature-wrapup.zip), or clone this repository. Copy the [`feature-wrapup`](feature-wrapup/) folder into your Codex skills directory (`~/.codex/skills/feature-wrapup`). Keep its `references/` and `agents/` folders with it.
+With Node.js and npm installed, run this in your terminal:
+
+```sh
+npx skills add https://github.com/ojou10/feature-wrapup-skill/tree/main/feature-wrapup
+```
+
+Installation is scoped to the current project by default. Add `--agent codex --global` to install for Codex across all your projects. See the [skills CLI documentation](https://github.com/vercel-labs/skills#install-a-skill) for other agents and options.
+
+Alternatively, download the [skill ZIP](https://github.com/ojou10/feature-wrapup-skill/releases/latest/download/feature-wrapup.zip), or clone this repository. Copy the [`feature-wrapup`](feature-wrapup/) folder into your Codex skills directory (`~/.codex/skills/feature-wrapup`). Keep its `references/` and `agents/` folders with it.
 
 ## Use
 
